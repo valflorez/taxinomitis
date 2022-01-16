@@ -1,5 +1,5 @@
 {
-  "name": "ml-for-kids",
+  “Name": "ml-for-kids",
   "version": "0.0.1",
   "scripts": {
     "start": "node dist/lib/app.js",
